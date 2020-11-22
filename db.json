@@ -4,49 +4,61 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 88
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 97
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 46
     },
     {
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 56
     },
     {
       "id": 5,
       "name": "Rex",
       "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "likes": 25
     },
     {
       "id": 6,
       "name": "Bo Peep",
       "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "likes": 35
     },
     {
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 5
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 3
+    },
+    {
+      "name": "Jessie",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
+      "likes": 5,
+      "id": 9
+    },
+    {
+      "name": "newToy",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAQEhERExAWFhETExUXFhgRGBgTFRgXGBEXFxsYFRMaHyogGBolGxgYITEhJikrLjAuGSszODMsOSktLisBCgoKDg0OGxAQGzImICYuLTUuMi0rLS01LSsxLy0tLTA1LS81LSsrKy0tLS0tLS0tLS8tLS0vLS0tLS0tLS0tLf/AABEIAOEA4QMBEQACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABgcDBAUBCAL/xABEEAABBAAEAwUFAwkECwAAAAABAAIDEQQSITEFBkEHEyJRYTJxgZGhFJLBIyRCUmJyosLRM0OCsSU0U2NkhKOys7Tw/8QAGgEBAAMBAQEAAAAAAAAAAAAAAAMEBQIBBv/EADQRAQACAQMDAgMGBQQDAAAAAAABAgMEETESIUEFUTJhcRMigZGx8BQjocHRM1Lh8RVCQ//aAAwDAQACEQMRAD8AvFAQEBAQEBAQEBAQEBBqYjieHjNPnjafJz2g/IlcTeteZd1x3txE/kxxcawjtG4mEnyEjCfla9i9Z4knFeOaz+Tea4HUGx6Lpw9QEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQVh2ocSk+0MgbI4MbEC5rXEAuc53tAb6Ab+azNdkmLRWJbPpuKs0m0x5R/grQ1srv2CqFO28tHL4hwuJRAxtNagqXHw8vy2uQuKvw2Ow/jcI3vDHNs5SHjLq3bcg/BXMF5i0KGqxxak+76CWixRAQEBAQEBAQEBAQEBAQEBAQEBAQEBBDuO86S4J7hPgJBFmcI5Gva5slezVezY6HXegaVfJmtSe8dlvFpq5I+7bv9HJd2sQ2382fX6duGn7umvxpRfxc/wC3+qf/AMdz97+iC80cdGMxMk7JGsDiAA8ODg0DKOhB0F/FV8u2S02msr2Cs4qRXeGDCYoiKUOn8bhTQ0+H40FHFKRHCSbWmY7uY9xc3KZnH93b60pK1",
+      "likes": 7,
+      "id": 10
     }
   ]
 }
