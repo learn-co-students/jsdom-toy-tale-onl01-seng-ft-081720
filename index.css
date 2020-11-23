@@ -29,7 +29,7 @@ body {
   height: 25rem;
   display: inline-grid;
   margin: 1rem 2rem;
-  box-shadow: 3px 4px #e04b52
+  box-shadow: 3px 4px #1e78cc
 }
 
 .toy-avatar {
@@ -40,20 +40,20 @@ body {
 
 button {
   position: relative;
-  background-color: #e04b52;
+  background-color: #57e04b;
   border: none;
-  border-radius: 5px;
+  border-radius: 8px;
   height: 3rem;
   width: max-content;
-  color: whitesmoke;
+  color: rgba(5, 0, 0, 0.945);
   font-size: 18px;
   justify-self: center;
 }
 
 button:hover {
   background-color: whitesmoke;
-  border: #e04b52 solid 1px;
-  color: #e04b52;
+  border: #c2f82d solid 1px;
+  color: #86e72b;
 }
 
 .container {
@@ -61,7 +61,7 @@ button:hover {
   width: stretch;
   height: auto;
   display: none;
-  background: #515DA2;
+  background: #393188;
   opacity: .8;
 }
 
@@ -84,8 +84,8 @@ button:hover {
 
 .submit:hover {
   background-color: whitesmoke;
-  border: #e04b52 solid 1px;
-  color: #e04b52;
+  border: #b14be0 solid 1px;
+  color: #4b5ae0;
 }
 
 
