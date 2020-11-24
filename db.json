@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "id": 9,
+      "name": "Bullseye",
+      "image": "https://secure.img1-fg.wfcdn.com/im/49083822/resize-h800-w800%5Ecompr-r85/8377/83778505/Bullseye+Disney/Pixar+Toy+Story+4+Cardboard+Standup.jpg",
+      "likes": 0
     }
   ]
 }
